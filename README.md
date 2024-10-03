@@ -1,2 +1,2 @@
-# Freelance
-Vai ser usado pra estuda!
+# Django
+Ambinente de estudo!
