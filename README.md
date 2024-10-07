@@ -1,2 +1,2 @@
-# Django
-Ambinente de estudo!
+# Meus projetos
+
